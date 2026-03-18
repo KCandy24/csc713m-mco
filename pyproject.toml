@@ -9,6 +9,7 @@ dependencies = [
     "image>=1.5.33",
     "kaggle>=2.0.0",
     "kagglehub>=1.0.0",
+    "opencv-python>=4.13.0.92",
     "path>=17.1.1",
     "plt>=0.2.0",
     "scikit-learn>=1.8.0",
