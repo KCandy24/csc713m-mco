@@ -1,5 +1,5 @@
 .kaggle/*
 1/*
 .venv
-.keras
-.yml
+*.keras
+*.yml
