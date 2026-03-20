@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "counter>=1.0.0",
     "image>=1.5.33",
+    "ipykernel>=7.2.0",
     "kaggle>=2.0.0",
     "kagglehub>=1.0.0",
     "opencv-python>=4.13.0.92",
